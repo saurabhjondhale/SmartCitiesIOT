@@ -1,4 +1,4 @@
-# MQTT Subscriber and plotting
+# Smart Building Management
 
 The Repo focuses on collecting data from MQTT publisher, store it a SqliteDB and create a plot to visualize the data
 
